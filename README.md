@@ -8,6 +8,6 @@ GPT4.0中转额度  1：2   即  2RMB可用 1美金的官网4.0额度。省钱�
 
 
 
-## 本人开发了一个公众号，能直接使用chatgpt-plus ,每天免费20个聊天额度。一天轻度使用基本够了。另外可以代充PLUS 
-## 套壳网站 ： https://www.ruancc.com  免费使用GPT4.0
+## 
+## GPT聚合网站 ： https://www.ruancc.com  注册即可免费使用一个月GPT4.0
 
